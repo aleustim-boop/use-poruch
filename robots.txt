@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aleustim-boop.github.io/use-poruch/sitemap.xml

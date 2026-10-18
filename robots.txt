@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /cart/
+Disallow: /favorites/
 Sitemap: https://aleustim-boop.github.io/use-poruch/sitemap.xml
